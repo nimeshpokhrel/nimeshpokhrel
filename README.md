@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unl0cky)](https://github.com/unl0cky)
+![image](https://askmitra.com/wp-content/uploads/2022/08/profile-banner1.png)
