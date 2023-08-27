@@ -29,5 +29,3 @@ cloud for variety of clients.</h4>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshpokhrel&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&title_color=e8932e&bg_color=15070c" alt="nimeshpokhrel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimeshpokhrel&show_icons=true&locale=en&theme=radical&hide_border=true&title_color=e8932e&bg_color=15070c" alt="nimeshpokhrel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshpokhrel&theme=radical&hide_border=true&title_color=e8932e&bg_color=15070c" alt="nimeshpokhrel" /></p>
