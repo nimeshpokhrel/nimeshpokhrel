@@ -1,7 +1,7 @@
 ![image](https://cdn.discordapp.com/attachments/997487381634625557/1145327544694997022/github-banner.jpg)
 
 <h1>Hi 👋, I'm Nimesh K. Pokhrel</h1>
-<h4>Hello, I am a software developer with 4
+<h4>Hello, I am a javascript developer with 2
 years of experience in non professional
 work and 1 year of experience in
 professional works. I am familiar with
