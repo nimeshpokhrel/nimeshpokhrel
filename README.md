@@ -1,4 +1,4 @@
-![image](https://askmitra.com/wp-content/uploads/2022/08/profile-banner1.png)
+![image](https://cdn.discordapp.com/attachments/997487381634625557/1145326610388615168/github-banner.jpg)
 
 <h1>Hi 👋, I'm Nimesh K. Pokhrel</h1>
 <h4>Hello, I am a software developer with 4
