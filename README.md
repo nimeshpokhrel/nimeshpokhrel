@@ -1,14 +1,14 @@
 ![image](https://cdn.discordapp.com/attachments/997487381634625557/1145327544694997022/github-banner.jpg)
 
 <h1>Hi 👋, I'm Nimesh K. Pokhrel</h1>
-<h4>Hello, I am a javascript developer with 2
+Hello, I am a javascript developer with 2
 years of experience in non professional
 work and 1 year of experience in
 professional works. I am familiar with
 various languages and frameworks and
 have made various full-fledge web
 applications and have managed them in
-cloud for variety of clients.</h4>
+cloud for variety of clients.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshpokhrel&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshpokhrel" /> </p>
 
