@@ -8,9 +8,9 @@ professional works. I am familiar with
 various languages and frameworks and
 have made various full-fledge web
 applications and have managed them in
-cloud for variety of clients.
-
-<br /><br />
+cloud for variety of clients.<br />ㅤㅤ
+ㅤ
+<br />ㅤㅤ
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshpokhrel&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshpokhrel" /> </p>
 
