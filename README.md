@@ -1,4 +1,4 @@
-[Imgur](https://imgur.com/owxEzEl)
+![image](https://i.imgur.com/owxEzEl.jpeg)
 
 <h1>Hi 👋, I'm Nimesh K. Pokhrel</h1>
 Hello, I am a javascript developer with 2
