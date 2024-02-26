@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/997487381634625557/1145327544694997022/github-banner.jpg)
+![image](https://imgur.com/owxEzEl)
 
 <h1>Hi 👋, I'm Nimesh K. Pokhrel</h1>
 Hello, I am a javascript developer with 2
